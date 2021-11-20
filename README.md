@@ -25,6 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. -->
+# Mock-up
+[Click here to view project Mock-up](https://app.moqups.com/HEtBg4kvV0xrULjEREbgO4YkcWHVZgVI/view/page/ab54de2e4)
+
 
 # Flow Chart
 
@@ -42,3 +45,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## PreparationPage
 ![Getting Started](src/assets/PreparationPage.jpg)
+
+
